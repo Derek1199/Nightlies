@@ -7,3 +7,5 @@ TODO:
  * ~~Implement a way to only build new commits to save space~~ Done!
  * Make it look nicer
  * Add b9s and FBI builds as well
+
+Credits: All go to Astronautlevel (Alex Taber) For creating the original Nightly site.
